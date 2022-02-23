@@ -1,0 +1,8 @@
+setup.py
+vumonics_modules/__init__.py
+vumonics_modules/vumonics_modules.py
+vumonics_modules.egg-info/PKG-INFO
+vumonics_modules.egg-info/SOURCES.txt
+vumonics_modules.egg-info/dependency_links.txt
+vumonics_modules.egg-info/not-zip-safe
+vumonics_modules.egg-info/top_level.txt
